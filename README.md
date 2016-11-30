@@ -3,9 +3,9 @@
 "Way back in IC14", we implemented a class named Dog that contained information about a dog.  The Dog class had the following instance variables (a.k.a. fields or data):
 
 
-*The dog's name
-*The breed
-*The age of the dog
+* The dog's name
+* The breed
+* The age of the dog
 
 
  
