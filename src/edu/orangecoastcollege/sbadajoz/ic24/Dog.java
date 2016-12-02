@@ -6,7 +6,10 @@ November 30, 2016
 IC24
 */
 package edu.orangecoastcollege.sbadajoz.ic24;
-public class Dog {
+
+import java.io.Serializable;
+
+public class Dog implements Serializable{
 
 	private String mName;
 	private String mBreed;
